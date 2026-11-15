@@ -1,8 +1,9 @@
 # PennyWise – Personal Expense Tracker
 **Final Web Development Project | InternNova Internship**  
 **Student:** Mohammed Irfan Ali  
-**Repository:** [Add your public GitHub repository URL]  
-**Live Website:** [Add your GitHub Pages URL]
+**Repository:** 
+https://github.com/mohammed-irfan-ali/pennywise-expense-tracker 
+**Live Website:** https://mohammed-irfan-ali.github.io/pennywise-expense-tracker/
 
 ## Project Objective
 The objective of PennyWise is to develop a responsive and interactive personal finance website using the HTML, CSS and JavaScript concepts learned during the six-week web development internship. The application helps users record daily income and expenses and understand their spending habits through a simple dashboard.
@@ -32,5 +33,3 @@ Through this project, I practiced creating a complete webpage with semantic HTML
 ## Future Improvements
 Future versions could include monthly budget limits, downloadable CSV reports, additional charts, recurring transactions and cloud-based user accounts. I would also like to add a monthly comparison so users can understand whether their spending is increasing or decreasing over time.
 
-## Screenshots
-Insert actual screenshots of the running website in the `screenshots` folder and include them in the final PDF or repository.
