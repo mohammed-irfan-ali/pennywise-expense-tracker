@@ -1,6 +1,0 @@
-Capture actual screenshots after running index.html in your browser:
-1. Full dashboard with at least 3 sample transactions (include income and expenses).
-2. Add/edit transaction form showing validation or edit mode.
-3. Search or filter results.
-4. Mobile responsive view (use browser device toolbar).
-Save PNG/JPG files in this folder. Do not use mockups as proof of a working website.
